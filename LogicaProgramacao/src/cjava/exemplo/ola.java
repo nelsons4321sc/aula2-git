@@ -7,6 +7,7 @@ public class ola {
 		System.out.println("oi sdsdfsd");
 		System.out.println("Para testar o git Pull");
 		System.out.println("Para testar o git Pull, mexeu no mesmo arquivo remoto");
+		System.out.println("Para testar as branchs");
 
 	}
 
