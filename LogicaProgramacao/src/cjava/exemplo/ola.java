@@ -6,6 +6,7 @@ public class ola {
 		
 		System.out.println("oi sdsdfsd");
 		System.out.println("Para testar o git Pull");
+		System.out.println("Para testar o git Pull, mesmo arquivo local");
 
 	}
 
